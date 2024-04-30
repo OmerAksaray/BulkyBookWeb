@@ -1,0 +1,11 @@
+C:\Users\oaksa\source\repos\BulkyWeb\Bulky.Utility\bin\Debug\net7.0\Bulky.Utility.deps.json
+C:\Users\oaksa\source\repos\BulkyWeb\Bulky.Utility\bin\Debug\net7.0\Bulky.Utility.dll
+C:\Users\oaksa\source\repos\BulkyWeb\Bulky.Utility\bin\Debug\net7.0\Bulky.Utility.pdb
+C:\Users\oaksa\source\repos\BulkyWeb\Bulky.Utility\obj\Debug\net7.0\Bulky.Utility.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\oaksa\source\repos\BulkyWeb\Bulky.Utility\obj\Debug\net7.0\Bulky.Utility.AssemblyInfoInputs.cache
+C:\Users\oaksa\source\repos\BulkyWeb\Bulky.Utility\obj\Debug\net7.0\Bulky.Utility.AssemblyInfo.cs
+C:\Users\oaksa\source\repos\BulkyWeb\Bulky.Utility\obj\Debug\net7.0\Bulky.Utility.csproj.CoreCompileInputs.cache
+C:\Users\oaksa\source\repos\BulkyWeb\Bulky.Utility\obj\Debug\net7.0\Bulky.Utility.dll
+C:\Users\oaksa\source\repos\BulkyWeb\Bulky.Utility\obj\Debug\net7.0\refint\Bulky.Utility.dll
+C:\Users\oaksa\source\repos\BulkyWeb\Bulky.Utility\obj\Debug\net7.0\Bulky.Utility.pdb
+C:\Users\oaksa\source\repos\BulkyWeb\Bulky.Utility\obj\Debug\net7.0\ref\Bulky.Utility.dll
